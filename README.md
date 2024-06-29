@@ -1,2 +1,2 @@
 # TiktokCreator
-Infinite money glitch
+Create short videos with subtitles, and subscript
